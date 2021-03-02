@@ -1,0 +1,6 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_06_19 - Liczby wyborne\bin\Debug\FR_06_19 - Liczby wyborne.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_06_19 - Liczby wyborne\bin\Debug\FR_06_19 - Liczby wyborne.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_06_19 - Liczby wyborne\bin\Debug\FR_06_19 - Liczby wyborne.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_06_19 - Liczby wyborne\obj\Debug\FR_06_19 - Liczby wyborne.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_06_19 - Liczby wyborne\obj\Debug\FR_06_19 - Liczby wyborne.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_06_19 - Liczby wyborne\obj\Debug\FR_06_19 - Liczby wyborne.csprojAssemblyReference.cache
